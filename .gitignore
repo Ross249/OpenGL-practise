@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+OpenGl/Debug
+
+Dependencies
